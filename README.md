@@ -9,7 +9,7 @@ A package for working with translations and messages, implementing logic similar
 ## Installation
 
 ```bash
-composer require mb/messages
+composer require mb4it/messages
 ```
 
 ## Components
